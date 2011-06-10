@@ -1,0 +1,9 @@
+Here are various scripts facilitating Socialtext's .po-based I18N workflow.
+
+The plan is to refactor them into something fit for general-purpose use,
+then upload it to CPAN as a st-po-tools distribution.
+
+Please consider this a work in progress and not ready for production use
+at the moment.
+
+Also see LICENSE for the terms (CPAL) for redistribution.
